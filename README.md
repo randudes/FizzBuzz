@@ -345,6 +345,8 @@ This change has now been made on GitHub, but your local copy doesn't know about 
 or you can run `git pull` from the Terminal tab. Once you have done the pull, you should see the commit show up in
 your local repository.
 
+Gaster Deltarune 
+
 ---
 # Extra Exercises
 
